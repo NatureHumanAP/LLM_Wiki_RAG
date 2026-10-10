@@ -1,0 +1,21 @@
+﻿#,question,expected,Recall@3,Recall@5,RR
+1,RAG 파이프라인의 주요 단계와 구조는?,concept-RAG,1,1,1.0
+2,Ontology 기반 지식 표현 방식이란?,concept-ontology,1,1,1.0
+3,MLOps의 정의와 주요 구성요소는?,concept-MLOps,1,1,1.0
+4,MCP Model Context Protocol 개념과 활용,concept-MCP,1,1,1.0
+5,클라우드 아키텍처의 주요 구성요소와 설계 원칙,concept-cloud-architecture,0,1,0.25
+6,컨텍스트 엔지니어링이란 무엇이고 왜 필요한가?,concept-context-engineering,0,1,0.25
+7,LLM 환각 발생 원인과 완화 방법,concept-hallucination,1,1,1.0
+8,AI 서브에이전트 패턴과 오케스트레이션,concept-subagents,1,1,1.0
+9,SLO Service Level Objective 정의와 측정 ...,concept-SLO,1,1,1.0
+10,Zettelkasten 방법론과 지식 연결 방식,concept-Zettelkasten,1,1,1.0
+11,NAVER Cloud HyperCLOVA X AX 서비스,entity-NAVER-Cloud,1,1,1.0
+12,VGG-16 전이학습 킥보드 불법 주정차 분류 정확도,entity-VGG16-kickboard,1,1,1.0
+13,GPUaaS PoC 프로젝트 구조와 목적,entity-GPUaaS-PoC,1,1,1.0
+14,NHN Cloud 서비스와 특징,entity-NHN-Cloud,1,1,1.0
+15,Anthropic Claude API 모델 종류와 특징,entity-Anthropic,0,0,0.143
+16,AWS 클라우드 주요 서비스와 활용 사례,entity-AWS,0,1,0.25
+17,RAG와 Mem0의 차이점과 각 장단점,comparison-RAG-vs-Mem0,1,1,1.0
+18,샘 알트만이 언급한 RAG 관련 발언,summary-RAG-샘호트만-2026,0,0,0.143
+19,LLM Wiki 지식 관리 시스템 설계 원칙,concept-LLM-Wiki,0,1,0.25
+20,하네스 엔지니어링 개념과 AI 시스템 적용,concept-harness-engineering,1,1,1.0

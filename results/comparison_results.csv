@@ -1,0 +1,21 @@
+﻿#,expected,구조화 R@3,구조화 R@5,구조화 RR,비구조화 R@3,비구조화 R@5,비구조화 RR
+1,concept-RAG,1,1,1.0,1,1,1.0
+2,concept-ontology,1,1,1.0,1,1,1.0
+3,concept-MLOps,1,1,1.0,1,1,1.0
+4,concept-MCP,1,1,1.0,1,1,1.0
+5,concept-cloud-architecture,0,1,0.25,1,1,1.0
+6,concept-context-engineering,0,1,0.25,0,0,0.0
+7,concept-hallucination,1,1,1.0,1,1,0.5
+8,concept-subagents,1,1,1.0,1,1,1.0
+9,concept-SLO,1,1,1.0,1,1,1.0
+10,concept-Zettelkasten,1,1,1.0,1,1,0.5
+11,entity-NAVER-Cloud,1,1,1.0,1,1,1.0
+12,entity-VGG16-kickboard,1,1,1.0,1,1,1.0
+13,entity-GPUaaS-PoC,1,1,1.0,1,1,1.0
+14,entity-NHN-Cloud,1,1,1.0,1,1,1.0
+15,entity-Anthropic,0,0,0.143,1,1,1.0
+16,entity-AWS,0,1,0.25,1,1,1.0
+17,comparison-RAG-vs-Mem0,1,1,1.0,1,1,1.0
+18,summary-RAG-샘호트만-2026,0,0,0.143,1,1,0.333
+19,concept-LLM-Wiki,0,1,0.25,1,1,1.0
+20,concept-harness-engineering,1,1,1.0,1,1,1.0

@@ -1,0 +1,38 @@
+[
+  {
+    "version": "v2.1",
+    "date": "2026-06-03",
+    "label": "로컬 MiniLM",
+    "embedding": "paraphrase-multilingual-MiniLM-L12-v2 (로컬)",
+    "qa_count": 31,
+    "hit1": 54.8,
+    "recall3": 80.6,
+    "recall5": 100.0,
+    "mrr": 69.2,
+    "fbeta": 85.9
+  },
+  {
+    "version": "v2.2",
+    "date": "2026-06-04",
+    "label": "OpenAI 초기",
+    "embedding": "text-embedding-3-small (OpenAI)",
+    "qa_count": 31,
+    "hit1": 71.0,
+    "recall3": 90.3,
+    "recall5": 93.5,
+    "mrr": 81.9,
+    "fbeta": 88.0
+  },
+  {
+    "version": "v2.3",
+    "date": "2026-06-04",
+    "label": "OpenAI+QA개선",
+    "embedding": "text-embedding-3-small (OpenAI)",
+    "qa_count": 31,
+    "hit1": 77.4,
+    "recall3": 96.8,
+    "recall5": 100.0,
+    "mrr": 87.4,
+    "fbeta": 94.5
+  }
+]
